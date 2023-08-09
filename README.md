@@ -1,6 +1,4 @@
-Tabii, istediğiniz bağlantılar ve açıklamalar doğrultusunda bir `README.md` önerisi hazırlayabilirim. Aşağıda bir öneri bulabilirsiniz:
 
----
 
 # Proje Adı
 
@@ -35,6 +33,3 @@ Yeni bir person eklemek için aşağıdaki URL üzerinden Swagger UI'ı kullanab
 [Person Ekleme](http://localhost:8081/swagger-ui/index.html#/person-controller/createPersonUsingPOST)
 
 ![Alt text](imgs/3.jpg)
----
-
-Bu `README.md` şablonunu projenize ekleyebilir ve projenizin özelliklerine göre gerektiği şekilde düzenleyebilirsiniz. İsterseniz daha detaylı bilgiler, kurulum adımları veya diğer ek bilgiler de ekleyebilirsiniz.
